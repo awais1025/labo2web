@@ -2,7 +2,7 @@ Titre: Harajuku
 
 Photo de gauche: harajuku.jpg (Non-cliquable)
 
-Photo de droite: meiji-jingu.jpg (URL: https://fr.wikipedia.org/wiki/Meiji-jing%C5%AB )
+Photo de droite: meiji-jingu.jpg (URL:https://fr.wikipedia.org/wiki/Meiji-jing%C5%AB  )
 
 Description:
 
